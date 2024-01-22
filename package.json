@@ -1,7 +1,7 @@
 {
   "name": "hellonode",
   "version": "1.0.0",
-  "description": "",
+  "description": "## A Fly Example",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/fly-examples/hellonode#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
